@@ -33,7 +33,7 @@ Foram utilizadas as seguintes ferramentas para o Projeto:
 
 ```bash
 # Clone este repositório
-$ git clone <https://github.com/FelipeKreulich/Curso-FullStack>
+$ git clone <https://github.com/FelipeKreulich/Projeto-Noticia-Cidade>
 
 # Acesse a Pasta
 
